@@ -1,0 +1,1 @@
+bcp IntradayCondor in "intraday 2015-10-05 NFLX.csv" –S tcp:i75kgssav8.database.windows.net,1433 –U jmalinchak –P Flicker01 –n -q –h ”TABLOCK”

@@ -1,0 +1,2 @@
+C:\Anaconda\python.exe "C:\Batches\AutomationProjects\Investment Strategy\Code\Python\good_download_wilshire.py" %*
+::C:\Anaconda\python.exe "C:\Batches\AutomationProjects\Investment Strategy\Code\Python\good_readfile_wilshire.py" %*
